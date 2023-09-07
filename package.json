@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  },
+  "name": "codando",
+  "version": "1.0.0",
+  "description": "fazendo site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Rostan00/site"
+  },
+  "author": "Rostan",
+  "license": "ISC"
+}
